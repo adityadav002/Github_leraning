@@ -1,2 +1,5 @@
-const btn = "Button"
+const btn = "Button";
 console.log(btn);
+
+const login = "Login Page";
+console.log(login)
