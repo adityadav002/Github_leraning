@@ -8,3 +8,7 @@ const footer = "Footer Added"
 console.log(footer)
 const payment = "Intregrated the payment"
 console.log(payment)
+
+
+const upi = "Intregrated the upi"
+console.log(upi)
