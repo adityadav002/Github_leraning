@@ -16,3 +16,6 @@ console.log(upi)
 
 
 console.log("All features are working fine");
+
+// I am fixing some bugs
+console.log("Fixed bugs in the login page");
